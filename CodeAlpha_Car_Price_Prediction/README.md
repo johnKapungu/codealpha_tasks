@@ -198,8 +198,8 @@ The exact files in `car_price_outputs/` depend on which notebook cells have been
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/car-price-prediction.git
-cd car-price-prediction
+git clone https://github.com/johnKapungu/CodeAlphaCar_Price_Prediction.git
+cd CodeAlpha_Car_Price_Prediction
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username and adjust the repository URL to match your actual repository.
@@ -282,9 +282,8 @@ Based on the current test results, Linear Regression is the leading candidate by
 **John Afwilile Kapungu**  
 Machine Learning | Data Science | Python
 
-GitHub: Add your repository URL  
+GitHub:  https://github.com/johnKapungu/CodeAlphaCar_Price_Prediction.git 
 LinkedIn: https://www.linkedin.com/in/john-kapungu/
 
 ---
 
-*This project is intended for educational and analytical purposes. Predictions should not be treated as guaranteed market valuations.*

@@ -1,0 +1,240 @@
+Present_Price,Driven_kms,Car_Age,Mileage_Per_Year,Owner,Car_Name,Fuel_Type,Selling_type,Transmission
+8.12,18796,3,6265.333333333333,0,ciaz,Petrol,Dealer,Manual
+0.58,1900,10,190.0,0,Suzuki Access 125,Petrol,Individual,Automatic
+0.51,32000,5,6400.0,0,Honda CB twister,Petrol,Individual,Manual
+0.94,45000,8,5625.0,0,Bajaj Pulsar 220 F,Petrol,Individual,Manual
+4.89,54200,7,7742.857142857143,0,ritz,Petrol,Dealer,Manual
+3.46,45280,4,11320.0,0,alto k10,Petrol,Dealer,Manual
+13.6,49562,2,24781.0,0,city,Petrol,Dealer,Manual
+18.54,50000,8,6250.0,0,corolla altis,Petrol,Dealer,Manual
+4.43,23709,6,3951.5,0,eon,Petrol,Dealer,Manual
+7.5,44000,3,14666.666666666666,0,amaze,Petrol,Dealer,Automatic
+0.87,3000,1,3000.0,0,Honda CB Hornet 160R,Petrol,Individual,Manual
+9.4,45000,5,9000.0,0,verna,Diesel,Dealer,Manual
+8.5,15059,2,7529.5,0,jazz,Petrol,Dealer,Automatic
+13.6,40324,3,13441.333333333334,0,city,Petrol,Dealer,Manual
+0.95,24000,7,3428.5714285714284,0,Bajaj Avenger Street 220,Petrol,Individual,Manual
+4.43,57000,7,8142.857142857143,0,i10,Petrol,Dealer,Manual
+30.61,89000,6,14833.333333333334,0,fortuner,Diesel,Dealer,Automatic
+20.45,59000,8,7375.0,0,fortuner,Diesel,Dealer,Manual
+11.0,87934,9,9770.444444444445,0,city,Petrol,Dealer,Manual
+0.787,50000,10,5000.0,0,Hero  CBZ Xtreme,Petrol,Individual,Manual
+0.47,21000,5,4200.0,0,Bajaj Discover 100,Petrol,Individual,Manual
+3.95,25000,2,12500.0,0,alto k10,Petrol,Dealer,Manual
+0.64,13700,4,3425.0,0,Bajaj Pulsar 135 LS,Petrol,Individual,Manual
+14.89,23000,2,11500.0,0,corolla altis,Diesel,Dealer,Manual
+16.09,58242,4,14560.5,0,innova,Diesel,Dealer,Manual
+0.81,11800,1,11800.0,0,TVS Apache RTR 160,Petrol,Individual,Manual
+5.71,43000,7,6142.857142857143,0,etios liva,Petrol,Dealer,Manual
+10.79,43000,2,21500.0,0,ertiga,Diesel,Dealer,Manual
+3.6,2135,1,2135.0,0,alto 800,Petrol,Dealer,Manual
+0.51,4000,1,4000.0,0,Honda Activa 4G,Petrol,Individual,Automatic
+5.7,24678,3,8226.0,0,grand i10,Petrol,Dealer,Manual
+20.91,12000,2,6000.0,0,corolla altis,Petrol,Dealer,Manual
+9.4,36198,5,7239.6,0,verna,Petrol,Dealer,Automatic
+3.76,10079,2,5039.5,0,alto k10,Petrol,Dealer,Manual
+10.79,41678,3,13892.666666666666,0,ertiga,Diesel,Dealer,Manual
+1.5,6900,7,985.7142857142857,0,Royal Enfield Thunder 350,Petrol,Individual,Manual
+10.0,69341,7,9905.857142857143,0,city,Petrol,Dealer,Manual
+10.0,69562,9,7729.111111111111,0,city,Petrol,Dealer,Manual
+13.74,88000,7,12571.42857142857,0,corolla altis,Petrol,Dealer,Manual
+1.6,1200,1,1200.0,0,Bajaj Dominar 400,Petrol,Individual,Manual
+6.76,71000,4,17750.0,0,etios liva,Diesel,Dealer,Manual
+7.49,39000,4,9750.0,0,swift,Diesel,Dealer,Manual
+0.72,38600,3,12866.666666666666,0,Honda CB Unicorn,Petrol,Individual,Manual
+0.826,6000,7,857.1428571428571,0,TVS Apache RTR 180,Petrol,Individual,Manual
+4.6,22517,7,3216.714285714286,0,i10,Petrol,Dealer,Manual
+1.47,33000,5,6600.0,0,Royal Enfield Classic 350,Petrol,Individual,Manual
+7.98,41442,8,5180.25,0,sx4,Petrol,Dealer,Manual
+0.48,50000,2,25000.0,0,Hero Splender Plus,Petrol,Individual,Manual
+18.61,45000,5,9000.0,0,corolla altis,Petrol,Dealer,Manual
+0.81,42000,4,10500.0,0,TVS Apache RTR 160,Petrol,Individual,Manual
+9.9,38000,8,4750.0,0,city,Petrol,Dealer,Manual
+13.74,56000,6,9333.333333333334,0,corolla altis,Petrol,Dealer,Manual
+4.6,30000,5,6000.0,0,i10,Petrol,Dealer,Manual
+0.81,19000,6,3166.6666666666665,0,TVS Apache RTR 160,Petrol,Individual,Manual
+5.7,53000,5,10600.0,0,grand i10,Diesel,Dealer,Manual
+0.95,1300,1,1300.0,0,Bajaj Avenger 220,Petrol,Individual,Manual
+0.8,20000,2,10000.0,0,Bajaj Avenger 150 street,Petrol,Individual,Manual
+0.88,8000,4,2000.0,0,Yamaha Fazer,Petrol,Individual,Manual
+7.13,12479,1,12479.0,0,xcent,Petrol,Dealer,Manual
+7.27,40534,3,13511.333333333334,0,etios cross,Petrol,Dealer,Manual
+5.7,4492,3,1497.3333333333333,0,grand i10,Petrol,Dealer,Manual
+0.75,26000,10,2600.0,1,Bajaj Pulsar 150,Petrol,Individual,Manual
+0.58,30000,5,6000.0,0,Honda CB Shine,Petrol,Individual,Manual
+0.95,16600,3,5533.333333333333,0,Bajaj Avenger 220 dtsi,Petrol,Individual,Manual
+9.9,48000,4,12000.0,0,city,Diesel,Dealer,Manual
+7.98,62000,15,4133.333333333333,0,sx4,Petrol,Dealer,Manual
+0.8,7000,2,3500.0,0,Bajaj Avenger 150,Petrol,Individual,Manual
+0.32,35000,3,11666.666666666666,0,Bajaj  ct 100,Petrol,Individual,Manual
+0.54,14000,3,4666.666666666667,0,Hero Splender iSmart,Petrol,Individual,Manual
+5.7,3493,2,1746.5,1,grand i10,Petrol,Dealer,Manual
+1.47,17000,3,5666.666666666667,0,Royal Enfield Classic 350,Petrol,Individual,Manual
+7.0,35000,4,8750.0,0,amaze,Petrol,Dealer,Manual
+1.9,5400,5,1080.0,0,Royal Enfield Thunder 500,Petrol,Individual,Manual
+5.9,9800,5,1960.0,0,brio,Petrol,Dealer,Manual
+13.6,30753,2,15376.5,0,city,Petrol,Dealer,Automatic
+9.4,61381,3,20460.333333333332,0,verna,Diesel,Dealer,Manual
+0.52,19000,4,4750.0,0,TVS Jupyter,Petrol,Individual,Automatic
+9.85,6900,1,6900.0,0,ciaz,Petrol,Dealer,Manual
+1.9,14000,3,4666.666666666667,0,Royal Enfield Thunder 500,Petrol,Individual,Manual
+1.05,213000,8,26625.0,0,Honda Karizma,Petrol,Individual,Manual
+0.57,24000,2,12000.0,0,Honda Activa 125,Petrol,Individual,Automatic
+1.17,6000,2,3000.0,0,Royal Enfield Bullet 350,Petrol,Individual,Manual
+4.6,35775,6,5962.5,0,i10,Petrol,Dealer,Manual
+5.97,5600,2,2800.0,0,brio,Petrol,Dealer,Manual
+0.84,5000,1,5000.0,0,Yamaha FZ S V 2.0,Petrol,Individual,Manual
+6.8,36000,3,12000.0,0,etios g,Petrol,Dealer,Manual
+5.98,51439,6,8573.166666666666,0,ritz,Diesel,Dealer,Manual
+13.46,197176,13,15167.384615384615,0,innova,Diesel,Dealer,Manual
+7.7,16002,2,8001.0,0,jazz,Petrol,Dealer,Manual
+1.47,11000,1,11000.0,0,Royal Enfield Classic 350,Petrol,Individual,Manual
+13.6,10980,2,5490.0,0,city,Petrol,Dealer,Manual
+9.4,36000,3,12000.0,0,verna,Petrol,Dealer,Manual
+6.82,31427,3,10475.666666666666,0,brio,Petrol,Dealer,Automatic
+11.6,33988,2,16994.0,0,city,Diesel,Dealer,Manual
+14.79,12900,3,4300.0,0,elantra,Petrol,Dealer,Automatic
+23.15,11000,1,11000.0,0,innova,Petrol,Dealer,Automatic
+0.57,35000,7,5000.0,1,Bajaj Discover 125,Petrol,Individual,Manual
+92.6,78000,8,9750.0,0,land cruiser,Diesel,Dealer,Manual
+6.79,31604,7,4514.857142857143,0,i20,Petrol,Dealer,Manual
+0.826,23000,4,5750.0,0,TVS Apache RTR 180,Petrol,Individual,Manual
+9.94,15000,3,5000.0,0,ciaz,Petrol,Dealer,Automatic
+7.2,48767,3,16255.666666666666,0,dzire,Petrol,Dealer,Manual
+10.38,45000,3,15000.0,0,ciaz,Diesel,Dealer,Manual
+0.99,25000,4,6250.0,0,Bajaj Pulsar  NS 200,Petrol,Individual,Manual
+9.4,15001,1,15001.0,0,verna,Petrol,Dealer,Manual
+7.6,50456,12,4204.666666666667,0,city,Petrol,Dealer,Manual
+0.83,5500,6,916.6666666666666,0,Yamaha FZ S,Petrol,Individual,Manual
+19.77,15000,1,15000.0,0,innova,Diesel,Dealer,Automatic
+18.64,8700,1,8700.0,0,corolla altis,Petrol,Dealer,Manual
+8.1,3435,1,3435.0,0,i20,Petrol,Dealer,Manual
+5.43,38488,1,38488.0,0,eon,Petrol,Dealer,Manual
+7.15,58000,10,5800.0,0,sx4,Petrol,Dealer,Manual
+18.61,62000,9,6888.888888888889,0,corolla altis,Petrol,Dealer,Manual
+4.43,15000,2,7500.0,0,eon,Petrol,Dealer,Manual
+0.87,15000,2,7500.0,0,Honda CB Hornet 160R,Petrol,Individual,Manual
+6.49,16200,1,16200.0,0,swift,Petrol,Individual,Manual
+6.8,33019,4,8254.75,0,amaze,Petrol,Dealer,Manual
+0.84,25000,2,12500.0,0,Yamaha FZ  v 2.0,Petrol,Individual,Manual
+0.75,92233,12,7686.083333333333,0,Bajaj Pulsar 150,Petrol,Individual,Manual
+5.59,27000,4,6750.0,0,ritz,Petrol,Dealer,Manual
+10.0,18828,3,6276.0,0,city,Petrol,Dealer,Manual
+7.5,61203,8,7650.375,0,jazz,Petrol,Dealer,Manual
+1.78,4000,1,4000.0,0,KTM RC200,Petrol,Individual,Manual
+13.6,29223,2,14611.5,0,city,Petrol,Dealer,Manual
+5.35,53675,6,8945.833333333334,0,brio,Petrol,Dealer,Manual
+0.51,1300,1,1300.0,0,Activa 4g,Petrol,Individual,Automatic
+1.9,3000,2,1500.0,0,Royal Enfield Thunder 500,Petrol,Individual,Manual
+2.28,127000,15,8466.666666666666,0,800,Petrol,Individual,Manual
+35.96,78000,4,19500.0,0,fortuner,Diesel,Dealer,Automatic
+0.99,13000,6,2166.6666666666665,0,Bajaj Pulsar NS 200,Petrol,Individual,Manual
+4.43,11849,2,5924.5,0,eon,Petrol,Dealer,Manual
+5.7,28200,3,9400.0,0,grand i10,Petrol,Dealer,Manual
+7.13,34000,4,8500.0,0,xcent,Petrol,Dealer,Manual
+10.38,51000,3,17000.0,0,ciaz,Diesel,Dealer,Manual
+5.9,60000,3,20000.0,0,brio,Petrol,Dealer,Manual
+5.8,19000,1,19000.0,0,brio,Petrol,Dealer,Manual
+3.95,44542,8,5567.75,0,alto k10,Petrol,Dealer,Manual
+9.4,49000,5,9800.0,0,verna,Diesel,Dealer,Manual
+6.87,42450,4,10612.5,0,swift,Diesel,Dealer,Manual
+1.75,11500,6,1916.6666666666667,0,Royal Enfield Classic 500,Petrol,Individual,Manual
+9.95,45000,4,11250.0,0,ertiga,Diesel,Dealer,Manual
+4.43,28282,3,9427.333333333334,0,eon,Petrol,Dealer,Manual
+0.54,14000,2,7000.0,0,Hero Splender iSmart,Petrol,Individual,Manual
+9.4,60000,6,10000.0,0,verna,Diesel,Dealer,Manual
+13.6,25000,3,8333.333333333334,0,city,Petrol,Dealer,Manual
+1.2,32000,5,6400.0,0,Honda CBR 150,Petrol,Individual,Manual
+35.96,47000,3,15666.666666666666,0,fortuner,Diesel,Dealer,Automatic
+0.787,16000,5,3200.0,0,Hero Extreme,Petrol,Individual,Manual
+0.87,11000,1,11000.0,0,Honda CB Hornet 160R,Petrol,Individual,Manual
+6.1,31427,3,10475.666666666666,0,brio,Petrol,Dealer,Manual
+8.89,20273,2,10136.5,0,ciaz,Diesel,Dealer,Manual
+12.48,45000,7,6428.571428571428,0,corolla altis,Diesel,Dealer,Manual
+8.7,21200,1,21200.0,0,jazz,Petrol,Dealer,Manual
+6.95,45000,4,11250.0,0,etios liva,Diesel,Dealer,Manual
+12.04,15000,4,3750.0,0,ciaz,Petrol,Dealer,Automatic
+9.4,15141,1,15141.0,0,verna,Petrol,Dealer,Manual
+0.54,8600,1,8600.0,0,Honda Dream Yuga,Petrol,Individual,Manual
+3.98,46706,4,11676.5,0,alto k10,Petrol,Dealer,Manual
+1.75,40000,9,4444.444444444444,0,Royal Enfield Classic 500,Petrol,Individual,Manual
+13.6,24800,3,8266.666666666666,0,city,Petrol,Dealer,Manual
+8.4,45078,4,11269.5,0,verna,Petrol,Dealer,Manual
+0.51,4300,1,4300.0,0,Honda Activa 4G,Petrol,Individual,Automatic
+4.41,56879,5,11375.8,0,wagon r,Petrol,Dealer,Manual
+5.8,40023,3,13341.0,0,amaze,Petrol,Dealer,Manual
+2.4,7000,4,1750.0,0,KTM 390 Duke,Petrol,Individual,Manual
+25.39,15000,1,15000.0,0,innova,Diesel,Dealer,Automatic
+5.7,21125,3,7041.666666666667,0,grand i10,Diesel,Dealer,Manual
+5.7,20114,1,20114.0,0,grand i10,Petrol,Dealer,Manual
+7.87,24524,2,12262.0,0,baleno,Petrol,Dealer,Automatic
+9.4,32322,6,5387.0,0,verna,Diesel,Dealer,Manual
+8.4,12000,2,6000.0,0,jazz,Petrol,Dealer,Manual
+7.9,28569,2,14284.5,0,jazz,Petrol,Dealer,Manual
+6.79,58000,8,7250.0,1,i20,Diesel,Dealer,Manual
+7.21,77427,9,8603.0,0,dzire,Petrol,Dealer,Manual
+7.71,25870,3,8623.333333333334,0,ertiga,Petrol,Dealer,Manual
+25.39,29000,2,14500.0,0,innova,Diesel,Dealer,Automatic
+7.0,40026,3,13342.0,0,amaze,Petrol,Dealer,Manual
+6.79,52132,6,8688.666666666666,0,i20,Diesel,Dealer,Manual
+6.8,16500,4,4125.0,0,brio,Petrol,Dealer,Manual
+4.6,53460,7,7637.142857142857,0,i10,Petrol,Dealer,Manual
+0.95,27000,8,3375.0,0,Bajaj Avenger 220 dtsi,Petrol,Individual,Manual
+2.69,50000,6,8333.333333333334,0,omni,Petrol,Dealer,Manual
+9.4,36000,6,6000.0,0,verna,Petrol,Dealer,Manual
+0.84,58000,3,19333.333333333332,0,Yamaha FZ S V 2.0,Petrol,Individual,Manual
+0.75,49000,11,4454.545454545455,1,Hero Hunk,Petrol,Individual,Manual
+7.6,77632,4,19408.0,0,i20,Diesel,Dealer,Manual
+9.9,56701,5,11340.2,0,city,Petrol,Dealer,Manual
+4.15,5200,7,742.8571428571429,0,wagon r,Petrol,Dealer,Manual
+1.5,15000,5,3000.0,0,Royal Enfield Thunder 350,Petrol,Individual,Manual
+10.21,90000,13,6923.076923076923,0,innova,Petrol,Individual,Manual
+0.74,5000,3,1666.6666666666667,0,Bajaj Pulsar 150,Petrol,Individual,Manual
+9.54,43000,5,8600.0,0,sx4,Diesel,Dealer,Manual
+0.95,500,2,250.0,0,Bajaj Avenger 220,Petrol,Individual,Manual
+2.37,21700,3,7233.333333333333,0,KTM RC390,Petrol,Individual,Manual
+30.61,104707,6,17451.166666666668,0,fortuner,Diesel,Dealer,Automatic
+0.54,500,2,250.0,0,Activa 3g,Petrol,Individual,Automatic
+7.85,40000,3,13333.333333333334,0,etios gd,Diesel,Dealer,Manual
+5.7,34797,3,11599.0,0,grand i10,Petrol,Dealer,Automatic
+7.74,49998,7,7142.571428571428,0,sx4,CNG,Dealer,Manual
+13.7,75000,13,5769.2307692307695,0,innova,Petrol,Dealer,Manual
+30.61,135000,5,27000.0,0,fortuner,Diesel,Individual,Automatic
+7.6,7000,2,3500.0,0,i20,Petrol,Dealer,Manual
+7.71,26000,3,8666.666666666666,0,ertiga,Petrol,Dealer,Manual
+6.76,40000,4,10000.0,0,etios g,Petrol,Dealer,Manual
+0.73,12000,5,2400.0,0,Honda CB Trigger,Petrol,Individual,Manual
+13.09,60076,3,20025.333333333332,0,city,Diesel,Dealer,Manual
+1.2,23500,4,5875.0,0,Honda CBR 150,Petrol,Individual,Manual
+13.6,34000,3,11333.333333333334,0,city,Petrol,Dealer,Manual
+9.4,71000,6,11833.333333333334,0,verna,Diesel,Dealer,Manual
+15.04,70000,9,7777.777777777777,0,corolla altis,Petrol,Dealer,Automatic
+30.61,40000,3,13333.333333333334,0,fortuner,Diesel,Dealer,Automatic
+1.05,30000,7,4285.714285714285,0,Honda Karizma,Petrol,Individual,Manual
+0.57,25000,6,4166.666666666667,1,Bajaj Discover 125,Petrol,Individual,Manual
+12.5,9000,1,9000.0,0,city,Diesel,Dealer,Manual
+0.57,55000,13,4230.7692307692305,0,Hero Super Splendor,Petrol,Individual,Manual
+0.55,6700,3,2233.3333333333335,0,Hero Passion Pro,Petrol,Individual,Manual
+35.96,41000,4,10250.0,0,fortuner,Diesel,Dealer,Automatic
+9.29,37000,1,37000.0,0,ciaz,Petrol,Dealer,Automatic
+13.6,68000,3,22666.666666666668,0,creta,Diesel,Dealer,Manual
+9.9,54242,5,10848.4,0,city,Petrol,Dealer,Manual
+8.01,50000,7,7142.857142857143,0,sx4,Petrol,Dealer,Automatic
+0.99,14500,6,2416.6666666666665,0,Bajaj Pulsar NS 200,Petrol,Individual,Manual
+8.4,4000,2,2000.0,0,jazz,Petrol,Dealer,Manual
+0.65,24000,5,4800.0,1,Hero  Ignitor Disc,Petrol,Individual,Manual
+7.0,36054,4,9013.5,0,amaze,Petrol,Dealer,Manual
+0.55,31000,2,15500.0,0,Hero Passion X pro,Petrol,Individual,Manual
+0.95,3500,1,3500.0,0,Bajaj Avenger 220,Petrol,Individual,Manual
+0.99,45000,5,9000.0,0,Bajaj Pulsar NS 200,Petrol,Individual,Manual
+1.82,1400,1,1400.0,0,UM Renegade Mojave,Petrol,Individual,Manual
+6.05,47000,5,9400.0,0,etios liva,Petrol,Dealer,Manual
+4.43,12500,2,6250.0,0,eon,Petrol,Dealer,Manual
+1.47,46500,5,9300.0,0,Royal Enfield Classic 350,Petrol,Individual,Manual
+5.9,5464,2,2732.0,0,brio,Petrol,Dealer,Manual
+5.71,2400,1,2400.0,0,ignis,Petrol,Dealer,Manual
+0.75,60000,10,6000.0,0,Bajaj Pulsar 150,Petrol,Individual,Manual
+18.61,56001,5,11200.2,0,corolla altis,Petrol,Dealer,Manual
+1.5,18000,2,9000.0,0,Royal Enfield Thunder 350,Petrol,Individual,Manual
+10.0,27600,3,9200.0,0,city,Petrol,Dealer,Manual
+1.47,4100,1,4100.0,0,Royal Enfield Classic 350,Petrol,Individual,Manual

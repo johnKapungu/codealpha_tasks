@@ -1,0 +1,74 @@
+# ==========================================
+# CodeAlpha Sales Prediction - .gitignore
+# ==========================================
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+*.tmp
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated model files
+*.pkl
+*.pickle
+*.joblib
+
+# Generated figures and reports
+# Uncomment if these files should not be tracked:
+# outputs/
+# reports/generated/
+
+# Large datasets
+# Uncomment if you do not want to upload datasets:
+# data/
+# *.csv
+
+# Local configuration
+config.local.py
+
+# Backup files
+*.bak
+*.backup
+*.old

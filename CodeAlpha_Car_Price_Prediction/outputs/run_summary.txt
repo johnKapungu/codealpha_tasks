@@ -1,0 +1,9 @@
+Rows used after exact duplicate removal: 299
+Exact duplicate rows removed: 2
+Reference year used for vehicle age: 2018 (latest year in this dataset)
+Training rows: 239; held-out test rows: 60
+Selected by lowest five-fold training CV MAE: Random forest (with present price)
+Held-out MAE: 1.3908
+Held-out RMSE: 3.3094
+Held-out R2: 0.5751
+Price units are not specified in the CSV; metrics use the dataset's price units.

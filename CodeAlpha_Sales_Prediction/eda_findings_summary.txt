@@ -1,0 +1,32 @@
+
+CODEALPHA TASK 4: SALES PREDICTION
+EXPLORATORY DATA ANALYSIS SUMMARY
+=================================
+
+Dataset rows: 200
+Dataset columns: 4
+
+Missing values: 0
+Duplicate rows: 0
+
+Average sales: 14.023
+Median sales: 12.900
+Sales standard deviation: 5.217
+
+Correlation with Sales:
+TV           0.782
+Radio        0.576
+Newspaper    0.228
+
+Strongest linear association: TV
+Correlation: 0.782
+
+Weakest linear association: Newspaper
+Correlation: 0.228
+
+Interpretation:
+Correlation indicates association, not causation.
+Potential outliers should be investigated before removal.
+This dataset has no date or audience-segment columns, so
+it does not support genuine time-series forecasting or
+direct comparisons between demographic segments.

@@ -1,0 +1,28 @@
+CODEALPHA TASK 4: SALES PREDICTION
+STEP 6: FEATURE IMPORTANCE AND ADVERTISING IMPACT
+
+Random Forest feature importance:
+  Feature  Importance
+       TV    0.624727
+    Radio    0.362119
+Newspaper    0.013153
+
+Permutation importance:
+  Feature  Importance_Mean  Importance_Std
+       TV         5.881648        0.606657
+    Radio         3.432660        0.346745
+Newspaper        -0.000432        0.042704
+
+Linear regression coefficients:
+  Feature  Coefficient
+       TV     0.044730
+    Radio     0.189195
+Newspaper     0.002761
+Intercept     2.979067
+
+Advertising scenarios:
+      Scenario      TV  Radio  Newspaper  Predicted_Sales  Change_vs_Baseline
+      Baseline 149.750  22.90     25.750          14.9855              0.0000
+       TV +10% 164.725  22.90     25.750          15.2960              0.3105
+    Radio +10% 149.750  25.19     25.750          15.1960              0.2105
+Newspaper +10% 149.750  22.90     28.325          14.9850             -0.0005

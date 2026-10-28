@@ -1,0 +1,7 @@
+Metric,Value
+Original rows,301
+Rows after cleaning,299
+Rows removed,2
+Columns in original dataset,9
+Columns after feature engineering,12
+Missing values after cleaning,1

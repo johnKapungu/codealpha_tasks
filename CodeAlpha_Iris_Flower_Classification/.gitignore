@@ -1,0 +1,87 @@
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==============================
+# Virtual Environments
+# ==============================
+.venv/
+venv/
+env/
+ENV/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ==============================
+# IDEs and Editors
+# ==============================
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+*.swo
+
+# ==============================
+# Operating System Files
+# ==============================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==============================
+# Environment Variables and Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Logs and Temporary Files
+# ==============================
+*.log
+*.tmp
+*.temp
+
+# ==============================
+# Testing and Coverage
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==============================
+# Build and Distribution
+# ==============================
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# Generated Machine Learning Models
+# ==============================
+models/*.joblib
+models/*.pkl
+models/*.pickle
+
+# ==============================
+# Generated Figures (optional)
+# Uncomment to ignore generated plots
+# ==============================
+# figures/*.png
+# figures/*.jpg
+# figures/*.jpeg
+
+# ==============================
+# Local Data (optional)
+# Uncomment if datasets should not be committed
+# ==============================
+# data/*.csv

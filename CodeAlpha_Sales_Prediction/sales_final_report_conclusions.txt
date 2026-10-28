@@ -1,0 +1,49 @@
+SALES PREDICTION USING MACHINE LEARNING
+FINAL EVALUATION AND CONCLUSIONS
+=================================
+
+Selected model: Gradient Boosting (Tuned)
+
+Dataset and methodology
+-----------------------
+The analysis used TV, Radio, and Newspaper advertising expenditure
+to predict Sales. The dataset was cleaned and explored before model
+training. Model selection was informed by cross-validation, and final
+performance was evaluated on the held-out test set.
+
+Final test-set performance
+--------------------------
+Mean Absolute Error (MAE): 0.6481
+Root Mean Squared Error (RMSE): 0.7935
+Coefficient of Determination (R²): 0.9801
+Number of test observations: 40
+
+Interpretation
+--------------
+MAE represents the average absolute prediction error in the units
+of the Sales target. RMSE gives greater weight to large errors.
+R² measures how much of the variation in the test-set Sales values
+is explained by the model relative to predicting the test-set mean.
+
+Limitations
+-----------
+The dataset is observational and contains advertising expenditures
+and sales, but no randomized experiment. Relationships and feature
+importance do not establish causal effects or prove advertising ROI.
+The dataset does not contain a date column, so it cannot directly
+support time-series forecasting or seasonal analysis.
+
+The dataset is small, and test performance may vary with different
+data splits. Cross-validation results and business validation should
+also be considered before deployment.
+
+Recommendations
+---------------
+Use the model as a decision-support tool for estimating sales under
+advertising-spend scenarios, not as a guarantee of future sales.
+Validate predictions on new data, monitor prediction errors, and
+consider additional variables such as pricing, promotions, market
+conditions, and time when available.
+
+All reported metrics describe this dataset and evaluation setup;
+they should not be assumed to generalize to every market or campaign.
